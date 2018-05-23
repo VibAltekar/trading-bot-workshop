@@ -1,1 +1,4 @@
+installing pip: https://pip.pypa.io/en/stable/installing/
+
+
 http://finvibby.herokuapp.com/livebtc
