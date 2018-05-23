@@ -1,1 +1,1 @@
-http://finvibby.herokuapp.com/live-btc
+http://finvibby.herokuapp.com/livebtc
